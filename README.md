@@ -149,4 +149,4 @@ ActualizarTodo()
 ## 👤 Autor
 
 **Juan Martínez**  
-[LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/juanmartinezm/)
+[LinkedIn](https://www.linkedin.com/in/juanmartinezm/)
